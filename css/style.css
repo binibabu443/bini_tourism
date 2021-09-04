@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
     color: white;
     background-color: #2C353C;
+	/*background-color: #808080; */
 }
 
 a { 
@@ -177,7 +178,7 @@ hr { border-top: 1px solid white; }
 .tm-service-img { margin-right: 25px; }
 .tm-service-img-r { margin-left: 25px; }
 
-/* Contact */
+
 .form-control,
 textarea {    
     color: white;
@@ -192,7 +193,7 @@ textarea {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-}
+}  
 
 .form-control:focus {
     color: white;
